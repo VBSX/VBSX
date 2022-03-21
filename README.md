@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil!
 
-- 🌱 Atualmente estudando Python <img align="center" alt="vbsx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> , e Java <src=img align="center" alt="vbsx-Java" height="30" width="40" "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+- 🌱 Atualmente estudando Python <img align="center" alt="vbsx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> , e Java <img align="center" alt="vbsx-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 - 📫 Contato pelo discord: Feizer#6684
 - 😎 Conhecimentos em programação: print("Hello World")
 
