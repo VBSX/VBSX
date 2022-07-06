@@ -1,7 +1,7 @@
 ### Seja bem vindo ao meu perfil!
 
 - 🌱 Atualmente estudando Python <img align="center" alt="vbsx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-e Java <img align="center" alt="vbsx-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 - 📫 Contato pelo discord: Feizer#6684
 - 😎 Conhecimentos em programação: print("Hello World")
 
@@ -25,7 +25,7 @@ e Java <img align="center" alt="vbsx-Java" height="30" width="40" src="https://r
   ##
   
   <div>
-      <a href="https://www.linkedin.com/in/vitor-hugo-0748a5223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/oak-borges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/9SKWuFYp9N" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
   
