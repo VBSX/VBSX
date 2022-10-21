@@ -1,10 +1,11 @@
 ### Seja bem vindo ao meu perfil!
 
-- 🌱 Atualmente estudando Python <img align="center" alt="vbsx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+- 🌱 Atualmente estudando PHP <img align="center" alt="vbsx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
 
 - 📫 Contato pelo discord: Feizer#6684
 - 😎 Conhecimentos em programação: print("Hello World")
-
+- Site: <a href="https://oakbox.com.br">oakbox.com.br</a>
+- projeto recente: <a href="https://zapsemadd.oakbox.com.br">zapsemadd.oakbox.com.br</a> 
 ##
 
 <div align="center">
@@ -19,6 +20,8 @@
   <img align="center" alt="vbsx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vbsx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vbsx-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="vbsx-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
    
 </div> 
  
