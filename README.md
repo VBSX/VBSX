@@ -6,6 +6,7 @@
 - 😎 Conhecimentos em programação: print("Hello World")
 - Site: <a href="https://oakbox.com.br">oakbox.com.br</a>
 - projeto recente: <a href="https://zapsemadd.oakbox.com.br">zapsemadd.oakbox.com.br</a> 
+< !--
 ##
 
 <div align="center">
@@ -41,3 +42,4 @@
   <div>
     <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   </div>
+ -- >
