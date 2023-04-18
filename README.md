@@ -6,8 +6,8 @@
 - 😎 Conhecimentos em programação: print("Hello World")
 - Site: <a href="https://oakbox.com.br">oakbox.com.br
 - projeto recente: <a href="https://zapsemadd.oakbox.com.br">zapsemadd.oakbox.com.br</a>  
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
+<!--
+![](https://komarev.com/ghpvc/?username=VBSX&color=grey)-->
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
