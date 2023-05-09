@@ -1,4 +1,4 @@
-</a> <img src="/pc.gif" align="right" width="450" height="350"/>
+</a> <img src="/pc.gif" align="right" width="40%" height="40%"/>
 ### Seja bem vindo ao meu perfil!
 
 - 🌱 Atualmente estudando  <img align="center" alt="vbsx-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
