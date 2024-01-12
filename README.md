@@ -23,7 +23,7 @@
   
  ##
 
-  ![Snake animation](https://github.com/VBSX/VBSX/blob/output/github-snake-dark.svg)
+  ![Snake animation](https://github.com/VBSX/VBSX/blob/output/github-snake-dark.svg%3Fpalette%3Dgithub-dark%26color_snake%3Dblue)
 
   ##
  
