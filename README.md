@@ -20,15 +20,35 @@
   <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
   <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" style="border"></code>
-  </br></br>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" style="border"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" style="border"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="border"></code>
   
+  
+  </br></br>
+</div> 
+
+#### Tools
+<div align="center">
+  <code><img alt="vbsx-Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"></code>
+  <code><img alt="vbsx-HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"></code>
+  <code><img alt="vbsx-CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg"></code>
+  <code><img alt="vbsx-Php" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"></code>
+  <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+  <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" style="border"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" style="border"></code>
+  <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></code>
+  <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" style="border"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="border"></code>
+  </br></br>
 </div> 
 <div align="center">
-
- ##
-
+  
+##
+  
   ![Snake animation](https://github.com/VBSX/VBSX/blob/output/github-snake-dark.svg)
-
-  ##
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vbsx&theme=github_dark" align="center" width="250px">
+  
+##
 </div> 
