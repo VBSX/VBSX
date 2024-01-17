@@ -8,6 +8,7 @@
 - Site: <a href="https://oakbox.com.br">oakbox.com.br
 - projeto recente: <a href="https://zapsemadd.oakbox.com.br">zapsemadd.oakbox.com.br</a>
 
+*<font color="#2DC26B">LONG LIFE TO OPEN SOURCE</font>* <code><img alt="opensource" width="30px" src="https://w7.pngwing.com/pngs/342/299/png-transparent-open-source-initiative-open-source-model-open-source-software-source-code-the-open-source-definition-open-source-s-free-text-logo-sign.png"></code>
 <!--
 ![](https://komarev.com/ghpvc/?username=VBSX&color=grey)-->
 
