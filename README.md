@@ -23,8 +23,6 @@
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" style="border"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" style="border"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="border"></code>
-  
-  
   </br></br>
 </div> 
 
@@ -42,6 +40,8 @@
   <code><img alt="vbsx-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" style="border"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="border"></code>
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="border"></code>
+  
   </br></br>
 </div> 
 <div align="center">
