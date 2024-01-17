@@ -41,7 +41,7 @@
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" style="border"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="border"></code>
   <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="border"></code>
-  
+  <code><img alt="vbsx-flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="border"></code>
   </br></br>
 </div> 
 <div align="center">
